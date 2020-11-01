@@ -1,0 +1,66 @@
+{
+    "OrderCheck":[
+        {"name":"机票订单"},
+        {"name":"酒店订单"},
+        {"name":"公寓订单"},
+        {"name":"团购订单"},
+        {"name":"度假订单"},
+        {"name":"门票订单"},
+        {"name":"火车票订单"},
+        {"name":"汽车票订单"},
+        {"name":"车车订单"},
+        {"name":"Q商城订单"},
+        {"name":"当地人订单"},
+        {"name":"金融订单"},
+        {"name":"礼品卡订单"}
+
+    ],
+    "flight":[
+        {
+            "HomeFlight":[
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"成都","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"上海","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"深圳","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"广州","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"杭州","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"海口","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"西安","date":"11月16日","price":"￥202","discount":"0.7折"}
+            ]
+        },
+        {
+            "HomeFlight":[
+                {"start":"北京","arrive":"澳门","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"河内","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"首尔","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"曼谷","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"台北","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"}
+            ]
+        },
+        {
+            "HomeFlight":[
+                {"start":"北京","arrive":"马尼拉","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"巴厘岛","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"新加坡","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"台北","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"昆明","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"东京","date":"11月16日","price":"￥202","discount":"0.7折"},
+                {"start":"北京","arrive":"曼谷","date":"11月16日","price":"￥202","discount":"0.7折"}
+            ]
+        }
+
+    ]
+
+    
+
+}

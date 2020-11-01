@@ -1,0 +1,83 @@
+* {margin: 0; padding: 0;}
+ul {list-style: none;}
+a {text-decoration: none;}
+.highlight {font-weight: bold;}
+body{
+    line-height: 1.5;
+    font-family: tahoma,arial,"Hiragino Sans GB",simsun,sans-serif;
+}
+html {
+    background-color: #fff;
+    color: #000;
+    font-size: 12px;
+}
+iframe{
+    width: 100%;
+}
+input{
+    outline: 0;
+    border: 0;
+}
+
+/* di */
+.r_footer{
+    clear: both;
+    margin: 0 auto;
+    padding: 15px 0 25px;
+    width: 979px;
+    line-height: 1.231;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #848484;
+    position: relative;
+    z-index: 999;
+}
+.r_footer>ul{
+    display: flex;
+    justify-content: center;
+    padding: 7px 0 0;
+    line-height: 22px;
+    color: #999;
+}
+.r_footer>ul:first-child{
+    padding: 2px 0 0;
+}
+.r_about>li:nth-child(odd){
+    margin: 0 5px;
+}
+.arc{
+    background: url(../img/register/arc.png) no-repeat 0px -6px;
+    width: 7px;
+    height: 4px;
+    display: inline-block;
+    margin: 9px 0 2px 0px;
+}
+.r_about>li:first-child{
+    position: relative;
+    padding: 0 5px;
+    border: 1px solid #fff;
+}
+.r_about>li:first-child:hover{
+    
+    border: 1px solid #ddd;
+    color: #ff8200;
+}
+.r_about>li:first-child:hover>i{
+    background: url(../img/register/arc.png) no-repeat 0px 0px;
+}
+#morelink{
+    position: absolute;
+    left: -1px;
+    bottom: 22px;
+    border: 1px solid #ddd;
+    background: #fff;
+    width: 103px;
+    color: #666;
+}
+#morelink>li:hover{
+    color: #666;
+    background: #e2e2e2;
+}
+#morelink span{
+    padding: 0 5px;
+}
